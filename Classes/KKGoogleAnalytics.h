@@ -2,7 +2,7 @@
 
 @class KKGoogleAnalytics;
 
-KKGoogleAnalytics *KKGAI();
+KKGoogleAnalytics *KKGAI(void);
 
 /*! The top-level class. */
 @interface KKGoogleAnalytics : NSObject

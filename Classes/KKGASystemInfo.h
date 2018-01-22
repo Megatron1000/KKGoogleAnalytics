@@ -1,6 +1,6 @@
 #import <Foundation/Foundation.h>
 
-NSString *KKUserAgentString();
+NSString *KKUserAgentString(void);
 
 /*! KKGASystemInfo helps to obtain required system information. */
 @interface KKGASystemInfo : NSObject
